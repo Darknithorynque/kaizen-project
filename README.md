@@ -41,7 +41,7 @@ npm install npm@latest -g
 If you follow the steps right up, just type "npm start" into the terminal then the project will run.
 
 
-# Deployment Link : https://darknithorynque.github.io/kaizen-project/
+# Deployment : https://darknithorynque.github.io/kaizen-project/
 
 
 
