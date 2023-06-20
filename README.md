@@ -5,6 +5,7 @@ It is pretty responsive on my screen but I controlled when it shrunk there are s
 It took 2 hours deploy the project. I had some problems on deployment.
 Here you can see the deployment project:
 https://darknithorynque.github.io/kaizen-project/
+(If you have a screen problem when click deployment link, pls a bit minimize the screen)
 
 
 ## **ABOUT PROJECT** 
@@ -42,6 +43,9 @@ If you follow the steps right up, just type "npm start" into the terminal then t
 
 
 # Deployment : https://darknithorynque.github.io/kaizen-project/
+
+# Note 
+If you have a screen problem when click deployment link, pls a bit minimize the screen
 
 
 
