@@ -1,0 +1,136 @@
+.details-container {}
+
+.details-backArrow {
+    width: 40px;
+    height: 40px;
+    position: relative;
+    top: -879%;
+    left: 3%;
+    cursor: pointer;
+}
+
+.details-backArrow:hover {
+    opacity: 0.8;
+    cursor: pointer;
+}
+
+.details-promotion-img {
+
+    width: 375px;
+    height: 325px;
+    border-radius: 0px 0px 0px 35% / 0px 0px 0px 35% !important;
+
+}
+
+.details-brand-img {
+    width: 65px !important;
+    height: 65px !important;
+    position: relative;
+    top: -74px;
+    right: -7px;
+    z-index: 2;
+    background-color: #FFFFFF;
+    border-radius: 31px !important;
+}
+
+.details-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.details-date {
+    width: 100px;
+    height: 30px;
+    border-radius: 25px;
+    background-color: #1D1E1C;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: -469%;
+    right: -71%;
+}
+
+.details-date p {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    color: #FFFFFF;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: -0.5px;
+
+}
+
+.details-title {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 34px;
+    letter-spacing: -0.2px;
+    width: 345px;
+    height: 70px;
+    position: relative;
+    top: -166%;
+    text-align: justify;
+    color: #1D1E1C;
+}
+
+.details-description {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    /* or 157% */
+    width: 345px;
+    height: 277px;
+
+    color: #1D1E1C;
+
+    mix-blend-mode: normal;
+    opacity: 0.75;
+    position: relative;
+    top: -33%;
+    overflow-y: auto;
+    overflow-x: clip;
+}
+
+.details-description::-webkit-scrollbar {
+    display: none;
+}
+
+.details-description p {
+    margin-bottom: 0px;
+}
+
+.details-marg-for-entire-text {
+    margin-inline-start: 20px;
+}
+
+.details-button {
+    width: 345px;
+    height: 56px;
+    background-color: #F40000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 28px;
+    position: relative;
+    top: -258%;
+    cursor: pointer;
+
+}
+
+.details-button-text {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    color: #FFFFFF;
+
+
+}
