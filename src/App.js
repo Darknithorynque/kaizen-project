@@ -6,7 +6,7 @@ import Campaigns from "./Pages/Details/campaign";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <Routes>
         <Route exac path="/" element={<Home />} />
         <Route path="/campaign/:seoName/:id" element={<Campaigns />} />
