@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/kaizen/static/css/main.75f387bd.css",
+    "main.js": "/kaizen/static/js/main.e11cd268.js",
+    "static/media/img_1.jpg": "/kaizen/static/media/img_1.f406550ce6957e6ccff7.jpg",
+    "index.html": "/kaizen/index.html",
+    "main.75f387bd.css.map": "/kaizen/static/css/main.75f387bd.css.map",
+    "main.e11cd268.js.map": "/kaizen/static/js/main.e11cd268.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75f387bd.css",
+    "static/js/main.e11cd268.js"
+  ]
+}
